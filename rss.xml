@@ -2,23 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>RSS Feed for Abraham Carvalho</title>
-    <link>https://abrahamcarvalhoo.github.io/</link>
+    <link>http://abrahamcarvalhoo.github.io/</link>
     <description>RSS Feed for Abraham Carvalho</description>
     <image>
       <title>Logo</title>
-      <url>https://abrahamcarvalhoo.github.io/assets/images/touch/apple-touch-icon-120x120.png</url>
-      <link>https://abrahamcarvalhoo.github.io/</link>
+      <url>http://abrahamcarvalhoo.github.io/assets/images/touch/apple-touch-icon-120x120.png</url>
+      <link>http://abrahamcarvalhoo.github.io/</link>
     </image>
     <item>
-      <guid>https://abrahamcarvalhoo.github.io/</guid>
+      <guid>http://abrahamcarvalhoo.github.io/</guid>
       <title>Abraham Carvalho | Web Front-End Developer</title>
-      <link>https://abrahamcarvalhoo.github.io/</link>
+      <link>http://abrahamcarvalhoo.github.io/</link>
       <description>Web Front-End Developer com mais de 5 anos de experiência especializada no desenvolvimento de sistemas, sites e aplicativos.</description>
     </item>
     <item>
-      <guid>https://abrahamcarvalhoo.github.io/abraham-carvalho.pdf</guid>
+      <guid>http://abrahamcarvalhoo.github.io/abraham-carvalho.pdf</guid>
       <title>Curriculum Vitae</title>
-      <link>https://abrahamcarvalhoo.github.io/abraham-carvalho.pdf</link>
+      <link>http://abrahamcarvalhoo.github.io/abraham-carvalho.pdf</link>
       <description />
     </item>
   </channel>

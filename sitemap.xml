@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://abrahamcarvalhoo.github.io/</loc>
+    <loc>http://abrahamcarvalhoo.github.io/</loc>
   </url>
   <url>
-    <loc>https://abrahamcarvalhoo.github.io/abraham-carvalho.pdf</loc>
+    <loc>http://abrahamcarvalhoo.github.io/abraham-carvalho.pdf</loc>
   </url>
 </urlset>
 <!--<guid value="4b998a47-70ba-44e9-b080-93711eb623c8" />-->
