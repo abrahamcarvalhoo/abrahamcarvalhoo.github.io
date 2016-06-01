@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS Feed for Abraham Carvalho</title>
+    <link>https://abrahamcarvalhoo.github.io/</link>
+    <description>RSS Feed for Abraham Carvalho</description>
+    <image>
+      <title>Logo</title>
+      <url>https://abrahamcarvalhoo.github.io/assets/images/touch/apple-touch-icon-120x120.png</url>
+      <link>https://abrahamcarvalhoo.github.io/</link>
+    </image>
+    <item>
+      <guid>https://abrahamcarvalhoo.github.io/</guid>
+      <title>Abraham Carvalho | Web Front-End Developer</title>
+      <link>https://abrahamcarvalhoo.github.io/</link>
+      <description>Web Front-End Developer com mais de 5 anos de experiência especializada no desenvolvimento de sistemas, sites e aplicativos.</description>
+    </item>
+    <item>
+      <guid>https://abrahamcarvalhoo.github.io/abraham-cv.pdf</guid>
+      <title>Download Curriculum Vitae</title>
+      <link>https://abrahamcarvalhoo.github.io/abraham-cv.pdf</link>
+      <description />
+    </item>
+  </channel>
+</rss>
+<!--<guid value="4b998a47-70ba-44e9-b080-93711eb623c8" />-->
