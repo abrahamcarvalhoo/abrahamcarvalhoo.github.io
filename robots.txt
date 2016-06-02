@@ -3,3 +3,4 @@ Allow: /
 Disallow: /link.html
 
 Sitemap: http://abrahamcarvalhoo.github.io/sitemap.xml
+Sitemap: http://abrahamcarvalhoo.github.io/sitemap-images.xml
