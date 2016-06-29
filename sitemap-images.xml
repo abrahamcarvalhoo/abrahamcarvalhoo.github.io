@@ -3,16 +3,16 @@
   <url>
       <loc>http://abrahamcarvalhoo.github.io</loc>
       <image:image>
-        <image:loc>http://abrahamcarvalhoo.github.ioassets/images/logo.png</image:loc>
+        <image:loc>http://abrahamcarvalhoo.github.io/assets/images/logo.png</image:loc>
       </image:image>
       <image:image>
         <image:loc>http://abrahamcarvalhoo.github.io/assets/images/touch/apple-touch-icon-120x120.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>http://abrahamcarvalhoo.github.ioassets/images/og-image.png</image:loc>
+        <image:loc>http://abrahamcarvalhoo.github.io/assets/images/og-image.png</image:loc>
       </image:image>
       <image:image>
-        <image:loc>http://abrahamcarvalhoo.github.ioassets/images/avatar.png</image:loc>
+        <image:loc>http://abrahamcarvalhoo.github.io/assets/images/avatar.png</image:loc>
       </image:image>
   </url>
 </urlset>

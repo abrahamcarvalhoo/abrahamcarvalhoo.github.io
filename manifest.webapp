@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "name": "Abraham Carvalho",
   "launch_path": "/index.html",
-  "description": "Web Front-End Developer com mais de 5 anos de experiência especializada no desenvolvimento de sistemas, sites e aplicativos.",
+  "description": "Web Front-End Developer com experiência especializada no desenvolvimento de sistemas, sites e aplicativos.",
   "icons": {
     "16": "assets/images/touch/favicon-16x16.png",
     "32": "assets/images/touch/favicon-32x32.png",
@@ -35,7 +35,7 @@
   "locales": {
     "en": {
       "name": "Abraham Carvalho",
-      "description": "Web Front-End Developer com mais de 5 anos de experiência especializada no desenvolvimento de sistemas, sites e aplicativos."
+      "description": "Web Front-End Developer com experiência especializada no desenvolvimento de sistemas, sites e aplicativos."
     }
   }
 }
