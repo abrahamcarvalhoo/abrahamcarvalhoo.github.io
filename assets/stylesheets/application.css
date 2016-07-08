@@ -2022,6 +2022,7 @@ h3 {
 }
 #about .sa-display-full .right img {
   right: 0;
+  display: none;
 }
 @media(max-width:767px) {
   body {
