@@ -1,19 +1,19 @@
-if (navigator.geolocation) {
-  navigator.geolocation.getCurrentPosition(function(posicao) {
-    var url = "https://nominatim.openstreetmap.org/reverse?lat="+posicao.coords.latitude+"&lon="+posicao.coords.longitude+"&format=json&json_callback=preencherDados";
-
-    var script = document.createElement('script');
-    script.src = url;
-    document.body.appendChild(script);
-  });
-} else {
-  alert('seu navegador não suporta geolocation');
-}
-
-function preencherDados(dados) {
-  document.querySelector('input[name="rua"]').value = dados.address.road;
-  document.querySelector('input[name="numero"]').value = dados.address.house_number;
-  document.querySelector('input[name="cidade"]').value = dados.address.city;
-  document.querySelector('input[name="estado"]').value = dados.address.state;
-  document.querySelector('input[name="cep"]').value = dados.address.postcode;
-}
+$(function(){
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(function(position) {
+      $.ajax({
+        url: 'http://nominatim.openstreetmap.org/reverse?lat='+position.coords.latitude+'&lon='+position.coords.longitude+'&format=json',
+        type: 'GET',
+        dataType: 'json',
+        data: {},
+      })
+      .done(function(data) {
+        $('input[name="rua"]').val(data.address.road);
+        $('input[name="bairro"]').val(data.address.suburb);
+        $('input[name="cidade"]').val(data.address.city);
+        $('input[name="estado"]').val(data.address.state);
+        $('input[name="cep"]').val(data.address.postcode);
+      })
+    });
+  }
+});
