@@ -11,8 +11,5 @@
       <image:image>
         <image:loc>http://abrahamcarvalhoo.github.io/assets/images/og-image.png</image:loc>
       </image:image>
-      <image:image>
-        <image:loc>http://abrahamcarvalhoo.github.io/assets/images/avatar.png</image:loc>
-      </image:image>
   </url>
 </urlset>
